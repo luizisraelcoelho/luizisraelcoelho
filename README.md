@@ -57,11 +57,11 @@
 <!--
 🐍📊 Snake game contribution chart:
 -->
-
+<!--
 <h2> 🪐 Contribution chart: </h2>
  <div align="center">
 <img width=870 src="https://github.com/luizisraelcoelho/luizisraelcoelho/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
 </div>
-
+-->
 
 </main>
